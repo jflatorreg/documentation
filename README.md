@@ -1,2 +1,2 @@
-# documentation
-Ejemplo de documentación de codigo en Python usando Sphinx
+# Documentation
+Ejemplo de documentación de codigo en Python usando Sphinx.
